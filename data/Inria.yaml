@@ -1,0 +1,6 @@
+path: ../datasets/INRIAPerson 
+train: images
+val: images
+
+names:
+  0: person
